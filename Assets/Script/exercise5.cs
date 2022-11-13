@@ -9,6 +9,6 @@ public class exercise5 : MonoBehaviour
 
     private void Start()
     {
-        Debug.Log(a > b);
+        Debug.Log(a > b);  //which one is bigger
     }
 }

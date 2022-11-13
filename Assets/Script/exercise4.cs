@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class exercise4 : MonoBehaviour
 {
-    public int yearBirth = 2001;
-    public int currentYear = 2022;
-    public int personAge = 21;
+    public int yearBirth = 2001;  //person's year birth
+    public int currentYear = 2022;  //current year
+    public int personAge = 21;  //person’s age
 
     private void Start()
     {

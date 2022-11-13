@@ -12,7 +12,7 @@ public class exercise1 : MonoBehaviour
 
     private void Start()
     {
-        result = a + b + c;
+        result = a + b + c; //sum of the 3 previous ones
         Debug.Log(result);
     }
 }

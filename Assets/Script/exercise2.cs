@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class exercise2 : MonoBehaviour
 {
-    public string personName = "Carlos";
-    public string cityName = "Madrid";
+    public string personName = "Carlos";  //person's name
+    public string cityName = "Madrid";  //city's name
 
     private void Start()
     {

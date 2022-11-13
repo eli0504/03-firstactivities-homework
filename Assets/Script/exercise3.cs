@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class exercise3 : MonoBehaviour
 {
-    public int personAge = 21;
-    public string personName = "Carlos";
+    public int personAge = 21;  //person’s age
+    public string personName = "Carlos";  //person’s name
 
     private void Start()
     {
